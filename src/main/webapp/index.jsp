@@ -94,7 +94,7 @@
         <td>About:</td>
         <td>
           <textarea name="about" id="about"></textarea>
-          <div class="err" style="margin-left:0;">Optional.</div>
+          <div class="err" style="margin-left:0;"></div>
         </td>
       </tr>
 
