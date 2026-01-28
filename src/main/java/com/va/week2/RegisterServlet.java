@@ -34,7 +34,9 @@ public class RegisterServlet extends HttpServlet {
         f.about = request.getParameter("about");
 
         try {
-            dao.registerForm(f); 
+        	int result = dao.registerForm(f);
+        	System.out.println(result);
+
         } catch (ClassNotFoundException e) {
             throw new ServletException(e);
         }

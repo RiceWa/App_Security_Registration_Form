@@ -14,5 +14,7 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/home/tou/Downloads/mysql-connector-j-9.4.0.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mariadb-jdbc/mariadb-java-client.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/mariadb-jdbc/mariadb-java-client-3.5.7.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
